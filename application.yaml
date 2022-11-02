@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: myapp
+  name: example-cluster-example-namespace-service-example-1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ
   namespace: argocd
 spec:
   project: default
